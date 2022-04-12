@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgnuion_notes=self.webpackChunkgnuion_notes||[]).push([[8158],{3596:function(n){n.exports=JSON.parse('{"allTagsPath":"/gnuion_notes/blog/tags","name":"facebook","count":1,"permalink":"/gnuion_notes/blog/tags/facebook"}')}}]);

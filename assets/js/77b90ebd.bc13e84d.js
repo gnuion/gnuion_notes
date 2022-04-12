@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgnuion_notes=self.webpackChunkgnuion_notes||[]).push([[3392],{9056:function(n){n.exports=JSON.parse('{"allTagsPath":"/gnuion_notes/blog/tags","name":"docusaurus","count":4,"permalink":"/gnuion_notes/blog/tags/docusaurus"}')}}]);
